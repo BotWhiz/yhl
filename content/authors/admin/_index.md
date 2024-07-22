@@ -53,11 +53,6 @@ education:
     summary: |
       Thesis on Research on Key Technologies of Autonomous Motion Planning for Robots in Unstructured Environments. Supervised by [Prof Daokui Qu](https://baike.baidu.com/item/%E6%9B%B2%E9%81%93%E5%A5%8E/6865367?fr=ge_ala).
 
-  - area: MEng Autonomous Robotics
-    institution: University of Chinese Academy of Sciences (Shenyang Institute of Automation - State Key Laboratory of Robotics) & University of Science and Technology of China (Theoretical Foundation Courses)
-    date_start: 2017-09-01
-    date_end: 2019-07-01
-    summary: |
       GPA: 3.8/4.0
 
       Courses included:
@@ -121,8 +116,5 @@ awards:
 ---
 
 ## About Me
-```markdown
 In 2023, I received my Ph.D. degree in Mechatronic Engineering from the [University of Chinese Academy of Sciences](https://www.topuniversities.com/universities/university-chinese-academy-sciences-ucas) (QS ranking 63) at the [State Key Laboratory of Robotics](http://rlab.sia.cas.cn/), under the supervision of [Researcher Daokui Qu](https://baike.baidu.com/item/%E6%9B%B2%E9%81%93%E5%A5%8E/6865367?fr=ge_ala). My research interests include key technologies in autonomous motion planning for robots.
-
 Since December 2022, I have been working as a Postdoctoral Research Fellow at [Zhejiang Lab](https://www.zhejianglab.org/lab/home), with research interests including localization and mapping for mobile robots, autonomous navigation and exploration for robots, robot learning, and embodied intelligence.
-```
