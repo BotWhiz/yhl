@@ -83,9 +83,6 @@ work:
     company_logo: ''
     date_start: 2022-12-20
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -104,22 +101,6 @@ skills:
         description: ''
         percent: 100
         icon: circle-stack
-- name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Dogs
-        description: ''
-        percent: 100
-        icon: dog
-      - name: Badminton
-        description: ''
-        percent: 80
-        icon: badminton
 
 languages:
   - name: English
@@ -137,7 +118,6 @@ awards:
     date: '2022-07-17'
     awarder: IEEE
     icon: IEEE
-    summary: |
 ---
 
 ## About Me
