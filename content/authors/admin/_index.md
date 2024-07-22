@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Yanhong Liu 刘鸿雁
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yanhong
+last_name: Liu
 
 # Status emoji
 status:
@@ -20,92 +17,75 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Fellow (Postdoctoral) at ZJ Lab
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ZJ Lab
+    url: https://www.zhejianglab.org/lab/home
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yanhongliu7423@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/BotWhiz
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/feed/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robot Learning
+  - Autonomous Navigation/Exploration
+  - Simultaneous Localization and Mapping (LiDAR & Vision & Multi-Sensor Fusion)
+  - Embodied Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Autonomous Robotics
+    institution: University of Chinese Academy of Sciences (Shenyang Institute of Automation - State Key Laboratory of Robotics)
+    date_start: 2019-09-01
+    date_end: 2023-01-08
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on Research on Key Technologies of Autonomous Motion Planning for Robots in Unstructured Environments. Supervised by [Prof Daokui Qu](https://baike.baidu.com/item/%E6%9B%B2%E9%81%93%E5%A5%8E/6865367?fr=ge_ala).
+
+  - area: MEng Autonomous Robotics
+    institution: University of Chinese Academy of Sciences (Shenyang Institute of Automation - State Key Laboratory of Robotics) & University of Science and Technology of China (Theoretical Foundation Courses)
+    date_start: 2017-09-01
+    date_end: 2019-07-01
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Pattern Recognition
+      - Robotics
+      - Machine Learning
+
+  - area: BSc Measurement and Control Technology and Instruments
+    institution: Shenyang University of Chemical Technology
+    date_start: 2013-09-01
+    date_end: 2017-07-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.7/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Digital/Analog Circuits
+      - C++
+      - Embedded Systems
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Research Fellow (Postdoctoral)
+    company_name: Zhejiang Lab
+    company_url: 'https://www.zhejianglab.org/lab/home'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-12-20
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,17 +94,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 50
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: ROS
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
-  - name: Hobbies
+- name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -132,55 +112,37 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: dog
+      - name: Badminton
         description: ''
         percent: 80
-        icon: camera
+        icon: badminton
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
     percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Best Paper in Control Finalist
+    url: https://irmv.sjtu.edu.cn/rcar2022/index.html
+    date: '2022-07-17'
+    awarder: IEEE
+    icon: IEEE
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
+```markdown
+In 2023, I received my Ph.D. degree in Mechatronic Engineering from the [University of Chinese Academy of Sciences](https://www.topuniversities.com/universities/university-chinese-academy-sciences-ucas) (QS ranking 63) at the [State Key Laboratory of Robotics](http://rlab.sia.cas.cn/), under the supervision of [Researcher Daokui Qu](https://baike.baidu.com/item/%E6%9B%B2%E9%81%93%E5%A5%8E/6865367?fr=ge_ala). My research interests include key technologies in autonomous motion planning for robots.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Since December 2022, I have been working as a Postdoctoral Research Fellow at [Zhejiang Lab](https://www.zhejianglab.org/lab/home), with research interests including localization and mapping for mobile robots, autonomous navigation and exploration for robots, robot learning, and embodied intelligence.
+```
