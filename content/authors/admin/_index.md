@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yanhong Liu 刘鸿雁
+title: Hongyan Liu 刘鸿雁
 
 # Full name (for SEO)
-first_name: Yanhong
+first_name: Hongyan
 last_name: Liu
 
 # Status emoji
@@ -37,7 +37,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4780-559X
 
 interests:
   - Robot Learning
