@@ -2,7 +2,7 @@
 title: 'Revisiting Spatio-Temporal Forecasting: Feature Propagation Carry More Weights Than How They Do'
 authors:
   - Shen Fang
-  - Hongyan Liu
+  - '**Hongyan Liu**'
   - Chengcheng Yu
   - Tian Xie
   - Wei Hua
@@ -26,6 +26,11 @@ tags:
   - Feature Propagation
   - Intelligent Transportation Systems
   - Graph Convolutional Networks
+
+keywords: 
+  - Data Mining and Data Analysis
+  - Network Modeling
+  - Off-line and Online Data Processing Techniques
 
 featured: true
 
