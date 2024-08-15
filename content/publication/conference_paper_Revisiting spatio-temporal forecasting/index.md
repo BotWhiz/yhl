@@ -1,11 +1,11 @@
 ---
 title: 'Revisiting Spatio-Temporal Forecasting: Feature Propagation Carry More Weights Than How They Do'
 authors:
-  - Fang Shen
-  - Liu Hongyan
-  - Yu Chengcheng
-  - Xie Tian
-  - Hua Wei
+  - Shen Fang
+  - Hongyan Liu
+  - Chengcheng Yu
+  - Tian Xie
+  - Wei Hua
 
 date: '2024-01-01T00:00:00Z'
 doi: ''
