@@ -29,7 +29,7 @@ tags:
 
 featured: true
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9872205'
+url_pdf: 'https://its.papercept.net/conferences/scripts/abstract.pl?ConfID=87&Number=201'
 url_code: 'https://github.com/YourRepo/STP_module'
 url_dataset: ''
 url_poster: ''
