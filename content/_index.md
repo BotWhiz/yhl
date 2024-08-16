@@ -40,6 +40,8 @@ sections:
       **Key Areas of Expertise:**
       - **Autonomous Systems:** My research focuses on enabling unmanned ground vehicles (UGVs) and mobile robots to autonomously navigate and interact in complex, dynamic environments. This includes online trajectory generation, real-time motion planning, LiDAR-based SLAM systems, and advanced obstacle detection using 3D LiDAR, particularly for obstacles that are challenging to detect with image-based methods.
       - **Human-Robot Interaction:** Ensuring safe and effective collaboration between robots and humans in shared workspaces is a central theme in my research. I have developed algorithms that enhance safety and productivity by preventing collisions and optimizing the interaction between robots and humans, even in highly dynamic environments.
+
+      
       - **Optimization & Machine Learning:** I leverage convex optimization and deep learning techniques to improve robotic decision-making, enabling robots to make more accurate and efficient decisions in uncertain and rapidly changing conditions. My methods are designed to optimize performance while minimizing computational costs, ensuring that robots can operate autonomously with minimal human intervention.
 
       **Application in Industry:**
