@@ -44,7 +44,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Mechanism of the proposed algorithm'
   focal_point: ''
   preview_only: false
 
