@@ -22,7 +22,7 @@ publishDate: "2020-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Opt. Express, 28*(13)"
+publication: "*Optics Express, 28*(13)"
 publication_short: "*Opt. Express*"
 
 abstract: |
