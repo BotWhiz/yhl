@@ -43,10 +43,10 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-image:
-  caption: 'Mechanism of the proposed algorithm'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Mechanism of the proposed algorithm'
+#  focal_point: ''
+#  preview_only: false
 
 projects: []
 slides: ""
