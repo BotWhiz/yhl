@@ -20,7 +20,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Automotive Innovation*"
+publication: "*Automotive Innovation (JCR Q1, 中科院TOP期刊)*"
 publication_short: ""
 
 abstract: |

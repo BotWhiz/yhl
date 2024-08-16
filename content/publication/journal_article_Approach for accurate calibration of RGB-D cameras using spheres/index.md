@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Optics Express, 28*(13)"
-publication_short: "*Opt. Express*"
+publication_short: "*Opt. Express (JCR Q1, 中科院TOP期刊)*"
 
 abstract: |
   RGB-D cameras (or color-depth cameras) play key roles in many vision applications. A typical RGB-D camera has only rough intrinsic and extrinsic calibrations that cannot provide the accuracy required in many vision applications. In this paper, we propose a novel and accurate sphere-based calibration framework for estimating the intrinsic and extrinsic parameters of color-depth sensor pair. Additionally, a method of depth error correction is suggested, and the principle of error correction is analyzed in detail. In our method, the feature extraction module can automatically and reliably detect the center and edges of the sphere projection, while excluding noise data and outliers, and the projection of the sphere center on RGB and depth images is used to obtain a closed solution of the initial parameters. Finally, all the parameters are accurately estimated within the framework of nonlinear global minimization. Compared to other state-of-the-art methods, our calibration method is easy to use and provides higher calibration accuracy. Detailed experimental analysis is performed to support our conclusions.

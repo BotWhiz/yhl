@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Industrial Electronics*"
-publication_short: "*IEEE TIE*"
+publication_short: "*IEEE TIE (JCR Q1, 中科院TOP 一区期刊)* "
 
 abstract: |
   This paper presents a lightweight sparse Gaussian process and hierarchical motion planning-based method for autonomous indoor exploration by mobile robots. The proposed method integrates Gaussian process regression with hierarchical motion planning to achieve efficient, real-time exploration in complex indoor environments. By employing sparse Gaussian processes, we significantly reduce the computational complexity while maintaining high accuracy in environmental mapping and motion planning. Our hierarchical approach allows the system to plan both global and local trajectories dynamically, enabling robust navigation and obstacle avoidance in highly dynamic environments. The effectiveness of this method is evaluated through comprehensive simulations and real-world experiments, demonstrating superior performance in terms of exploration efficiency and safety.
