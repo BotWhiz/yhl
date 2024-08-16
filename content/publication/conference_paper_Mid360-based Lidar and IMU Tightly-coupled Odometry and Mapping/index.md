@@ -35,8 +35,8 @@ featured: true
 url_pdf: 'https://ieeexplore.ieee.org/document/10011701'
 url_code: 'https://github.com/nkymzsy/LIO-SAM-MID360'
 
-image:
-  caption: 'This is an example GIF'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'This is an example GIF'
+#  focal_point: ''
+#  preview_only: false
 ---
